@@ -1,3 +1,8 @@
+#name-box {
+    margin: 0 auto;
+    font-family: sans-serif, calibri, arial;
+    background-color: #ccffff;
+
 h1 {
-    color:paleturquoise;   
+    color: white; 
 }
