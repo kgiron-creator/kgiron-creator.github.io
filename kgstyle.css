@@ -1,5 +1,6 @@
 body {
     font-family: Lobster, Pacifico, sans-serif;
+    padding: 50px 50px 50px 50px;
   }
 
   header {
@@ -7,14 +8,14 @@ body {
       color:white;
       background-color:#00917c;
       text-align:center;
-      padding: 50px 50px 50px 50px;
+      padding: 25px 25px 25px 25px;
       
 }
 
 
 #kgpic {
     box-shadow: 10px 10px grey;
-    border-radius: 25px;
+    border-radius: 10px;
     float:right;
 }
 
@@ -26,5 +27,5 @@ footer {
     border-radius: 25px;
     background-color:#00917c;
     text-align:center;
-    padding: 50px 50px 50px 50px;
+    padding: 25px 25px 25px 25px;
 }
