@@ -13,7 +13,7 @@ body {
 }
 
 #kgpic {
-    box-shadow: 5px 5px lightcyan;
+    box-shadow: 5px 5px lightgrey;
     border-radius: 10px;
     float:right;
 }
