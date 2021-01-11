@@ -16,6 +16,8 @@ body {
     box-shadow: 5px 5px lightgrey;
     border-radius: 10px;
     float:right;
+    width: 50%;
+    height: 50%;
 }
 
 h2 {
