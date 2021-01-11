@@ -8,7 +8,7 @@ body {
       color:white;
       background-color:#00917c;
       text-align:center;
-      padding: 25px 25px 25px 25px; 
+      padding: 40px 40px 40px 40px; 
 }
 
 h1.name-title {
@@ -16,11 +16,10 @@ display:inline;
 }
 
 #kgpic {
-    box-shadow: 5px 5px darkgrey;
-    border-radius: 10px;
+    box-shadow: 5px 5px black;
+
     float:right;
-    width:50%;
-    height:50%;
+    width:20%;
 }
 
 h2 {
@@ -32,4 +31,13 @@ footer {
     background-color:#00917c;
     text-align:center;
     padding: 25px 25px 25px 25px;
+}
+
+ul.bullet-list {
+    padding-bottom: 1em;
+}
+
+#date {
+    font-size: .8em;
+    color:yellow;
 }
