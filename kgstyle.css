@@ -4,20 +4,19 @@ body {
   }
 
   header {
-      border-radius: 25px;
+      border-radius:25px;
       color:white;
       background-color:#00917c;
       text-align:center;
-      padding: 25px 25px 25px 25px;
-      
+      padding: 25px 25px 25px 25px; 
 }
 
 #kgpic {
     box-shadow: 5px 5px darkgrey;
     border-radius: 10px;
     float:right;
-    width: 50%;
-    height: 50%;
+    width:50%;
+    height:50%;
 }
 
 h2 {
@@ -25,7 +24,7 @@ h2 {
 }
 
 footer {
-    border-radius: 25px;
+    border-radius:25px;
     background-color:#00917c;
     text-align:center;
     padding: 25px 25px 25px 25px;
