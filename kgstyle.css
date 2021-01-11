@@ -3,14 +3,21 @@ body {
   }
 
   header {
+      border-radius: 25px;
       color:white;
       background-color:#00917c;
       text-align:center;
       padding: 50px 50px 50px 50px;
-      border-bottom-style: solid;
+      
 }
 
 
 #kgpic {
+    box-shadow: 10px 10px grey;
+    border-radius: 25px;
     float:right;
+}
+
+h2 {
+    border-bottom-style: solid;
 }
