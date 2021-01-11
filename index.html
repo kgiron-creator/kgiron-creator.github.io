@@ -22,8 +22,11 @@
       <p> &copy; 2020 | Karen Giron | Maryland | <a href="https://www.byui.edu/online">BYU-Idaho Online Learning</a><br>
         <p id="date">Last Updated:
           <script>
+            var today = new Date();
+            var date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
+            var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
             var dateTime = date+' '+time;
-            document.getElementById("date").innerHTML = dateTime;
+            document.getElementById("date").innerHTML = today, date, time, dateTime;
           </script>
         </p>
        
