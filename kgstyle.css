@@ -6,7 +6,10 @@ body {
       color:dfe0df;
       background-color:00917c;
       text-align:center;
-      padding: 100px 100px 100px 100px;
+      padding: 50px 50px 50px 50px;
 }
 
 
+#kgpic {
+    float:right;
+}
