@@ -21,3 +21,10 @@ body {
 h2 {
     border-bottom-style: solid;
 }
+
+footer {
+    border-radius: 25px;
+    background-color:#00917c;
+    text-align:center;
+    padding: 50px 50px 50px 50px;
+}
