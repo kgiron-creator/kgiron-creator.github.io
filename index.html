@@ -21,7 +21,10 @@
 <footer>
       <p>&copy; 2020 | Karen Giron | Maryland | <a href="https://www.byui.edu/online">BYU-Idaho Online Learning</a><br>
         Last Updated: 
-        <script>(document.lastModified);
+        <script>
+          function dateFunction() {
+            var x = new Date(document.lastModified);
+          }
         </script>
       </p>
 </html>
